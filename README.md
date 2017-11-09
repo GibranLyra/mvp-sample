@@ -6,7 +6,7 @@
 - RxJava2
 - Butterknife
 - Timber
-- Picasso
+- Glide
 - FastAdapter
 - JodaTime
 - JUnit
